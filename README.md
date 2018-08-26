@@ -2,15 +2,10 @@
 A sample SOM created for personal use.
 The SOM illustrates applied health science program correlations to industries.
 
-Citations:
-*Ahmad, A., & Yusof, R. (2016). A Modified Kohonen Self-Organizing Map (Ksom) Clustering For Four Categorical Data. Jurnal Teknologi, 78(6-13). doi:10.11113/jt.v78.9275*
 
-Authors: Jaskaran Ghotra and Stephen Zhao 
-Self Organizing Maps: AHS ProgramsAuthors: Jaskaran Ghotra and Stephen Zhao
+**Goal**: To find the relation between programs and industries and help focus job development for programs to their related industries. 
 
-Goal: To find the relation between programs and industries and help focus job development for programs to their related industries. 
-
-Industries Used
+#### Industries Used
 
 
 6216 Home Health Care Services  
@@ -32,7 +27,7 @@ Industries Used
 6243 Vocational Rehabilitation Services  
 
 
-AHS Co-op Programs
+#### AHS Co-op Programs
 
 HLTHHC - Health Studies   
 KINHC - Kinesiology   
@@ -43,13 +38,33 @@ PUBHLTHHC - Public Health
 HLTHPROMHC - Health Studies -- Health Promotion option   
 
 
-Full Self Organizing Map
+## Full Self Organizing Map
 
 An better analysis is done by grouping the graphs based on the location of their cluster. 
 For example, two graphs that have cluster in the top quadrant of the graph are grouped together. 
 After grouping them based off quadrants, another SOM algorithm is conducted to increase the quality of prediction of the algorithm.
 
 The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. 
-RED = Strong Correlation
-ORANGE = Medium Correlation
-YELLOW = Weak Correlation
+![Legend](SOM/SOM3.PNG)
+
+#### Initial SOM Clusters
+![1](SOM/SOM1.PNG)
+![2](SOM/SOM2.PNG)
+
+#### Top Quadrant
+![4](SOM/SOM4.PNG)
+
+#### Bottom Quadrant
+![5](SOM/SOM5.PNG)
+
+#### Left Quadrant
+![6](SOM/SOM6.PNG)
+
+#### Right Quadrant
+![7](SOM/SOM7.PNG)
+
+## Citations
+*Ahmad, A., & Yusof, R. (2016). A Modified Kohonen Self-Organizing Map (Ksom) Clustering For Four Categorical Data. Jurnal Teknologi, 78(6-13). doi:10.11113/jt.v78.9275*
+
+## Authors
+Jaskaran Ghotra and Stephen Zhao
