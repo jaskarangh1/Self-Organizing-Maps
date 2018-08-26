@@ -44,6 +44,7 @@ An better analysis is done by grouping the graphs based on the location of their
 For example, two graphs that have cluster in the top quadrant of the graph are grouped together. 
 After grouping them based off quadrants, another SOM algorithm is conducted to increase the quality of prediction of the algorithm.
 
+<<<<<<< HEAD
 The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. 
 ![Legend](SOM/SOM3.PNG)
 
@@ -68,3 +69,28 @@ The lines represent the strength of the correlation between each industry and pr
 
 ## Authors
 Jaskaran Ghotra and Stephen Zhao
+=======
+The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. <br/>
+RED = Strong Correlation<br/>
+ORANGE = Medium Correlation<br/>
+YELLOW = Weak Correlation
+
+![SOM1](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM1.PNG "SOM Full")
+
+![SOM2](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM2.PNG "SOM Full")
+
+![SOM3](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM3.PNG "Legend")
+
+![SOM4](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM4.PNG "Top Quadrant")
+
+![SOM5](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM5.PNG "Bottom Quadrant")
+
+![SOM6](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM6.PNG "Left Quadrant")
+
+![SOM7](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM7.PNG "Right Quadrant")
+
+
+
+
+
+>>>>>>> master
