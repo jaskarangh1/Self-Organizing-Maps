@@ -54,7 +54,21 @@ RED = Strong Correlation
 ORANGE = Medium Correlation
 YELLOW = Weak Correlation
 
-![hello](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM1.PNG "SOM Full")
+![SOM1](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM1.PNG "SOM Full")
+
+![SOM2](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM2.PNG "SOM Full")
+
+![SOM3](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM3.PNG "Legend")
+
+![SOM4](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM4.PNG "Top Quadrant")
+
+![SOM5](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM5.PNG "Bottom Quadrant")
+
+![SOM6](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM6.PNG "Left Quadrant")
+
+![SOM7](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM7.PNG "Right Quadrant")
+
+
 
 
 
