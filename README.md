@@ -53,3 +53,8 @@ The lines represent the strength of the correlation between each industry and pr
 RED = Strong Correlation
 ORANGE = Medium Correlation
 YELLOW = Weak Correlation
+
+![hello](https://github.com/jaskarangh1/Self-Organizing-Maps/blob/master/SOM/SOM1.PNG "SOM Full")
+
+
+
