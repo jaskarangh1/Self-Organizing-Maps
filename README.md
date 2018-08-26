@@ -49,7 +49,7 @@ An better analysis is done by grouping the graphs based on the location of their
 For example, two graphs that have cluster in the top quadrant of the graph are grouped together. 
 After grouping them based off quadrants, another SOM algorithm is conducted to increase the quality of prediction of the algorithm.
 
-The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. 
+The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. <br/>
 RED = Strong Correlation
 ORANGE = Medium Correlation
 YELLOW = Weak Correlation
