@@ -1,13 +1,21 @@
 # Self-Organizing-Maps
-A SOM created for personal use.
-The SOM illustrates how applied health science programs at the University of Waterloo correlates to industries defined by the Canadian Government Board of Labour. Data is based on University of Waterloo co-op data.
+The SOM illustrates how applied health science programs at the University of Waterloo correlates to industries defined by the Canadian Government Board of Labour. Data is based on University of Waterloo co-op data across 5 years.
 
 
-**Goal**: To find the relation between programs and industries and help focus job development for programs to their related industries. 
+### Goal 
+To find the relation between programs and industries and help focus job development for programs to their related industries. 
+
+## Full Self Organizing Map
+An better analysis is done by grouping the graphs based on the location of their cluster. 
+For example, two graphs that have cluster in the top quadrant of the graph are grouped together. 
+After grouping them based off quadrants, another SOM algorithm is conducted to increase the quality of prediction of the algorithm.
+
+The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. 
+![Legend](SOM/SOM3.PNG)
+
+Further analysis can be conducted by using K-means regression and K-nearest-neighbours to confirm correlation.
 
 #### Industries Used
-
-
 6216 Home Health Care Services  
 6232 Residential Developmental Handicap, Mental Health and Substance Abuse Facilities  
 6213 Offices of Other Health Practitioners  
@@ -26,9 +34,7 @@ The SOM illustrates how applied health science programs at the University of Wat
 6219 Other Ambulatory Health Care Services  
 6243 Vocational Rehabilitation Services  
 
-
 #### AHS Co-op Programs
-
 HLTHHC - Health Studies   
 KINHC - Kinesiology   
 RECHC - Recreation and Leisure   
@@ -38,29 +44,20 @@ PUBHLTHHC - Public Health
 HLTHPROMHC - Health Studies -- Health Promotion option   
 
 
-## Full Self Organizing Map
-
-An better analysis is done by grouping the graphs based on the location of their cluster. 
-For example, two graphs that have cluster in the top quadrant of the graph are grouped together. 
-After grouping them based off quadrants, another SOM algorithm is conducted to increase the quality of prediction of the algorithm.
-
-The lines represent the strength of the correlation between each industry and program. The correlations are based off proximity and overlapping of clusters. 
-![Legend](SOM/SOM3.PNG)
-
-#### Initial SOM Clusters
+### Initial SOM Clusters
 ![1](SOM/SOM1.PNG)
 ![2](SOM/SOM2.PNG)
 
-#### Top Quadrant
+### Top Quadrant
 ![4](SOM/SOM4.PNG)
 
-#### Bottom Quadrant
+### Bottom Quadrant
 ![5](SOM/SOM5.PNG)
 
-#### Left Quadrant
+### Left Quadrant
 ![6](SOM/SOM6.PNG)
 
-#### Right Quadrant
+### Right Quadrant
 ![7](SOM/SOM7.PNG)
 
 ## Citations
