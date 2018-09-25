@@ -2,7 +2,7 @@
 The SOM illustrates how applied health science programs at the University of Waterloo correlates to industries defined by the Canadian Government Board of Labour. Data is based on University of Waterloo co-op data across 5 years.
 
 
-### Goal 
+## Goal 
 To find the relation between programs and industries and help focus job development for programs to their related industries. 
 
 ## Full Self Organizing Map
